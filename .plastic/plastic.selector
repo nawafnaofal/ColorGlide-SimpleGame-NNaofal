@@ -1,0 +1,4 @@
+repository "ColorGlide - Simple Game - N Naofal@nawafnaufal@cloud"
+  path "/"
+    br "/main"
+    co "/main"
